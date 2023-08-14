@@ -16,7 +16,9 @@ The graph shows the monthly global land-surface temperature, with the x-axis rep
 The color of each block represents the variance from the base temperature for that month, according to the legend. Hovering over a block displays a tooltip showing the year, month, and temperature.
 
 # Screenshot
-Here is an example of what the heat map looks like when you run the code: Screenshot of the monthly temperature heat map
+Screenshot of the monthly temperature heat map
+![Image](heatmap.jpg)
+
 
 # Code
 The heading and SVG elements are created.
